@@ -1,0 +1,14 @@
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/bin/Debug/net8.0/P2PNetwork
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/bin/Debug/net8.0/P2PNetwork.deps.json
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/bin/Debug/net8.0/P2PNetwork.runtimeconfig.json
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/bin/Debug/net8.0/P2PNetwork.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/bin/Debug/net8.0/P2PNetwork.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.AssemblyInfoInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.AssemblyInfo.cs
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.csproj.CoreCompileInputs.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/refint/P2PNetwork.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.pdb
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.genruntimeconfig.cache
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/ref/P2PNetwork.dll

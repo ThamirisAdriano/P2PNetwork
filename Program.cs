@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net;
+﻿using System.Net;
 using System.Net.Sockets;
-using System.Threading;
 
 class Program {
     static List<Peer> peers = new List<Peer>();
 
     static void Main(string[] args) {
-        int port = 8000;  // Porta padrão
+        int port = 8000; 
         if (args.Length > 0) {
-            port = int.Parse(args[0]);  // Aceita a porta como argumento
+            port = int.Parse(args[0]);  
         }
 
         StartNode(port);

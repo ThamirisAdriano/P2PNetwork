@@ -12,3 +12,4 @@
 /Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.pdb
 /Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.genruntimeconfig.cache
 /Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/ref/P2PNetwork.dll
+/Users/thamirisadriano/Documents/fiap/blockchain/P2PNetwork/obj/Debug/net8.0/P2PNetwork.sourcelink.json
